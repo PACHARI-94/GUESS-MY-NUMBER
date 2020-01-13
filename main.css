@@ -1,0 +1,205 @@
+body{
+    background-color: #e2ab7f;
+    
+}
+h1{
+    color: #f1ece1;
+    
+}
+#header1_2{
+    color: #f1ece1;
+    
+}
+#header1_3{
+    color: #c05850;
+    
+}
+
+#one{
+    
+    border-radius: 25px;
+    padding: 10px;
+    height: 50px;
+    background-color: #505668;
+    color: #f1ece1;
+    width: 80px;
+    
+    
+}
+
+
+#link1 { 
+
+    color: #c05850;
+
+ } 
+#link2 { 
+
+    color: #f1ece1; 
+
+}
+
+.header1{
+
+    float: left;
+    width: 70% ;
+    height: 250px;
+    background-color: #3a353f;
+
+}
+
+.header2{
+
+    float: right;
+    width: 30% ;
+    height: 250px;
+    background-color: #3a353f;
+}
+
+.column1{
+
+    float: left;
+    width: 10% ;
+    height: 600px;
+    background-color: #505668;
+}
+#song{
+    color: #3a353f;
+    background-color: #c05850;
+}
+
+#mysong{
+    
+    height: 30px;
+    background-color: #685CAC;
+    color: #f1ece1;
+    font-size: smaller;
+}
+
+
+.cr1_1{
+    float: left;
+    width: 25%;
+    height: 250px;
+    line-height: 0px; 
+    
+}
+.cr2_1{
+    float: left;
+    width: 25%;
+    height: 250px;
+    
+}
+.cr3_1{
+    float: left;
+    width: 25%;
+    height: 250px;
+    
+}
+.cr4_1{
+    float: left;
+    width: 25%;
+    height: 280px;
+    
+}
+.cr1_2{
+
+    float: left;
+    line-height: 0px; 
+    width: 25%;
+    height: 30px;
+    background-color: #f1ece1;
+
+}
+
+#mytext1{
+
+    
+    color: white;
+    font-size: 150% ;
+
+}
+#mytext2{
+
+    background-color: #685CAC;
+    font-size:120% ;
+    color: #3a353f;
+
+}
+
+#mytext3{
+
+    background-color: #685CAC;
+    width: 700px;  
+    font-size: large ;
+}
+
+#mytext4{
+
+    background-color: #505668;
+    width: 300px;
+    font-size: 150% ;
+    color: #f1ece1;
+  
+}
+
+#textinbox{
+    font-size: small;
+}
+
+#last{
+    color:#f1ece1;
+    border-radius: 15px;
+    padding: 10px;
+    height: 20px;
+    background-color: #3a353f;
+    width: 500px; 
+}
+
+
+
+
+
+.box-area{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+.single-box{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: auto;
+    border-radius: 4px;
+    background-color: #f1ece1;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    transition: .3s;
+    color: #3a353f;
+
+}
+
+.header-text{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 48px;
+}
+.img-text{
+    padding: 20px;
+}
+.img-text p{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+.single-box:hover{
+    background: #3a353f;
+    color: #f1ece1;
+}
