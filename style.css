@@ -1,0 +1,60 @@
+body{
+    
+    
+    font-family: 'Anton', sans-serif;
+}
+#GuessMe{
+    font-size: 300%;
+    color: #f0e6d7;
+    font-family: 'Anton', sans-serif;
+    background-color: #363151 ;
+    width: 60%;
+ 
+}
+h2{
+    font-size: 200%;
+    color: #363151;
+    font-family: 'Anton', sans-serif;
+    background-color: #feaea5 ;
+    
+    width: 100%;
+}
+.manual{
+    font-size: 130%;
+    color: #f0e6d7;
+}
+
+.guessField{
+    font-size: 180%;
+    color: #213058;
+    font-family: 'Anton', sans-serif;
+  }
+
+  .guessSubmit{
+    font-size: 180%;
+    color: #363151;
+    font-family: 'Anton', sans-serif;
+    background-color: #f0e6d7;
+  }
+
+  .result{
+    font-size: 200%;
+    color: #f0e6d7;
+    font-family: 'Anton', sans-serif;
+    background-color: #363151;
+
+  }
+
+  .TIMES{
+    font-size: 180%;
+    color: #f0e6d7;
+    font-family: 'Anton', sans-serif;
+    
+  }
+  .Startnewgame{
+    font-size: 200%;
+    color: #363151;
+    font-family: 'Anton', sans-serif;
+    background-color: #f0e6d7;
+  }
+  
